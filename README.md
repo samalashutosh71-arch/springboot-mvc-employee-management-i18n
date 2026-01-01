@@ -43,5 +43,8 @@ Configured languages:
 - Odia
 - Korean
 
+<<<<<<< HEAD
 Language files:
 
+=======
+>>>>>>> db9508e7d170fb36bef40cac5a4972ad705ab068
